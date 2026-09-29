@@ -1,2 +1,2 @@
 Auth key system
-https://keyauth.shop/
+https://authris.cc/
